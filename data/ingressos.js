@@ -41,4 +41,12 @@ export const ingressos = [
     data: '05/06/2025',
     preco: 'R$ 40,00',
   },
+  {
+  id: '7',
+  titulo: 'Festival de Música Indie',
+  local: 'Arena Cultural',
+  data: '10/06/2025',
+  preco: 'R$ 150,00',
+}
+
 ];
